@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> C'est la fièvre dans le club, minuit sonne au compteur
+> Ton regard dans le mien, t'as capturé mon cœur
+> You know I want you, baby, une tension dans l'air
+> Quelque chose de Tennessee, un parfum de mystère
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
