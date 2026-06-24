@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/quelque-chose-de-tennessee/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Quelque Chose De Tennessee](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/quelque-chose-de-tennessee/) |
+| **Get License** | [Request Licensing for Quelque Chose De Tennessee](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/quelque-chose-de-tennessee/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `3a18602d70449ac5a93c01805a32f18ede95e3f26b703375b451e269b3934c00` |
 | **Timestamp** | June 24, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
